@@ -3,3 +3,5 @@ theme="iterm2 default"
 font-family=Hack
 font-size=14
 font-thicken=true
+
+window-save-state=always
