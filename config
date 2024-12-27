@@ -4,4 +4,7 @@ font-family=Hack
 font-size=14
 font-thicken=true
 
+shell-integration-features=no-cursor
+cursor-style=block
+
 window-save-state=always
