@@ -9,3 +9,9 @@ cursor-style=block
 cursor-style-blink=true
 
 window-save-state=always
+
+# I use opt+left/right a lot in fish to go backwards/forwards through cd
+# history, so here I unbind whatever it is that ghostty is using these keys
+# for.
+keybind = option+left=unbind
+keybind = option+right=unbind
