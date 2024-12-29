@@ -15,3 +15,5 @@ window-save-state=always
 # for.
 keybind = option+left=unbind
 keybind = option+right=unbind
+
+### config ends here
