@@ -1,15 +1,33 @@
+##############################################################################
+# Ghostty configuration. https://ghostty.org/docs
+
+##############################################################################
+# General look and feel.
 theme="iterm2 default"
 
+##############################################################################
+# Font.
 font-family=Hack
 font-size=14
 font-thicken=true
 
+##############################################################################
+# Cursor look and feel.
 shell-integration-features=no-cursor
 cursor-style=block
 cursor-style-blink=true
 
+##############################################################################
+# Persistence.
 window-save-state=always
 
+##############################################################################
+# Key bindings.
+keybind = ctrl+command+x>2=new_split:right
+keybind = ctrl+command+x>3=new_split:down
+keybind = ctrl+command+x>0=close_surface
+
+##############################################################################
 # I use opt+left/right a lot in fish to go backwards/forwards through cd
 # history, so here I unbind whatever it is that ghostty is using these keys
 # for.
