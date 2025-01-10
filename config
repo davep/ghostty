@@ -16,6 +16,7 @@ macos-icon=custom-style
 macos-icon-frame=plastic
 macos-icon-ghost-color=#000000
 macos-icon-screen-color=#333333
+mouse-hide-while-typing=true
 
 ##############################################################################
 # Font.
