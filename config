@@ -11,6 +11,11 @@ window-width=150
 ##############################################################################
 # General look and feel.
 theme="iterm2 default"
+macos-titlebar-proxy-icon=hidden
+macos-icon=custom-style
+macos-icon-frame=plastic
+macos-icon-ghost-color=#000000
+macos-icon-screen-color=#333333
 
 ##############################################################################
 # Font.
