@@ -2,6 +2,10 @@
 # Ghostty configuration. https://ghostty.org/docs
 
 ##############################################################################
+# Behaviour.
+quit-after-last-window-closed=true
+
+##############################################################################
 # General look and feel.
 theme="iterm2 default"
 
