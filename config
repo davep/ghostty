@@ -41,12 +41,12 @@ window-save-state=always
 keybind = ctrl+command+x>2=new_split:right
 keybind = ctrl+command+x>3=new_split:down
 keybind = ctrl+command+x>0=close_surface
-keybind = shift+page_up=scroll_page_up
-keybind = shift+page_down=scroll_page_down
-keybind = shift+home=scroll_to_top
-keybind = shift+end=scroll_to_bottom
-keybind = shift+up=scroll_page_lines:-1
-keybind = shift+down=scroll_page_lines:1
+keybind = ctrl+shift+page_up=scroll_page_up
+keybind = ctrl+shift+page_down=scroll_page_down
+keybind = ctrl+shift+home=scroll_to_top
+keybind = ctrl+shift+end=scroll_to_bottom
+keybind = ctrl+shift+up=scroll_page_lines:-1
+keybind = ctrl+shift+down=scroll_page_lines:1
 
 ##############################################################################
 # I use opt+left/right a lot in fish to go backwards/forwards through cd
