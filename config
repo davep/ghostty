@@ -4,6 +4,9 @@
 ##############################################################################
 # Behaviour.
 quit-after-last-window-closed=true
+window-step-resize=true
+window-height=70
+window-width=150
 
 ##############################################################################
 # General look and feel.
