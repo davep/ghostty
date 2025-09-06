@@ -38,6 +38,7 @@ window-save-state=always
 
 ##############################################################################
 # Key bindings.
+macos-option-as-alt = true
 keybind = ctrl+command+x>2=new_split:right
 keybind = ctrl+command+x>3=new_split:down
 keybind = ctrl+command+x>0=close_surface
