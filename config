@@ -50,6 +50,10 @@ keybind = ctrl+shift+up=scroll_page_lines:-1
 keybind = ctrl+shift+down=scroll_page_lines:1
 
 ##############################################################################
+# Make Cmd+X work as M-x, in support of Emacs in the terminal.
+keybind = command+x=text:\x1bx
+
+##############################################################################
 # I use opt+left/right a lot in fish to go backwards/forwards through cd
 # history, so here I unbind whatever it is that ghostty is using these keys
 # for.
